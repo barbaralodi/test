@@ -22,6 +22,7 @@
     // Barbara wrote hghgnghg //
     // barbara wrote "vediamo se funzia //
 
+	// Do any additional setup after loading the view, typically from a nib. udskg uksd
 }
 
 - (void)didReceiveMemoryWarning
