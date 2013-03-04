@@ -21,12 +21,15 @@
     
     // Barbara wrote hghgnghg //
     // barbara wrote "vediamo se funzia //
+
 }
 
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+    
+    // Barbara wrote e adesso... //
 }
 
 @end
